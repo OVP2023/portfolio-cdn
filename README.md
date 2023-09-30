@@ -1,2 +1,4 @@
-# portfolio-cdn
-Задача 1 дз 2 REACT в CDN (Codepen)
+# Portfolio с состоянием v4
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/OlegPustovalov/pen/bGOjpoB](https://codepen.io/OlegPustovalov/pen/bGOjpoB).
+
